@@ -1,0 +1,181 @@
+{
+  "users": {
+    "6283117190494@s.whatsapp.net": {
+      "hitcmd": 55,
+      "attacksi": "6283123448708@s.whatsapp.net",
+      "isBattle": true,
+      "attackdigi": 53,
+      "DarahOrang": 230,
+      "tp": 5,
+      "bits": 15,
+      "kenyang": 340,
+      "happy": 100,
+      "digivice": true,
+      "recoverplug": 10,
+      "apajob": false,
+      "job": "nganggur",
+      "setname": "Veemon - Evolution",
+      "maxdarahdigi": 230,
+      "mpmax": 150,
+      "mp": 88,
+      "breakk": false,
+      "kuldonattack": 1723253895021
+    },
+    "6283123448708@s.whatsapp.net": {
+      "hitcmd": 599,
+      "pc": 1724410706253,
+      "attackdigi": 53,
+      "maxdarahdigi": 230,
+      "DarahOrang": 169,
+      "digivice": true,
+      "tp": 11,
+      "bits": 544,
+      "kenyang": 340,
+      "happy": 100,
+      "mpmax": 150,
+      "mp": 12,
+      "recoverplug": 20,
+      "attacksi": "6283117190494@s.whatsapp.net",
+      "isBattle": false,
+      "setname": "ziyo",
+      "apajob": true,
+      "job": "kurir",
+      "breakk": true,
+      "jawaban": "BENGKEL SEPEDA",
+      "tebakkimia": false,
+      "tebakgambar": false,
+      "warung": false,
+      "lastclaimday": 1724044840280,
+      "lastclaimwek": 1724045591450,
+      "lastclaimyer": 1724047311477,
+      "memcari": true,
+      "digim": 4,
+      "kurir": true,
+      "tebakkata": false
+    },
+    "6283115834692@s.whatsapp.net": {
+      "pc": 1724430493591,
+      "hitcmd": 0
+    },
+    "6283117190495@s.whatsapp.net": {
+      "hitcmd": 9,
+      "pc": 1723987305054,
+      "attackdigi": 0,
+      "DarahOrang": 100,
+      "tp": 0,
+      "bits": 0,
+      "kenyang": 0,
+      "happy": 0,
+      "digivice": false,
+      "recoverplug": 0,
+      "apajob": false,
+      "job": "nganggur",
+      "setname": "Terriermon Assistant"
+    },
+    "6285281752471@s.whatsapp.net": {
+      "hitcmd": null,
+      "pc": 1723917873137
+    },
+    "6283833782677@s.whatsapp.net": {
+      "hitcmd": 14,
+      "pc": 1724248174542
+    },
+    "628977458250@s.whatsapp.net": {
+      "hitcmd": null
+    },
+    "6283104220600@s.whatsapp.net": {
+      "hitcmd": null,
+      "pc": 1723987068732
+    },
+    "120363313633262988@newsletter": {
+      "pc": 1724035061953
+    },
+    "6285765043666@s.whatsapp.net": {
+      "pc": 1724060173704,
+      "hitcmd": 0
+    }
+  },
+  "chats": {
+    "120363319049859493@g.us": {
+      "isBanned": false,
+      "setwelcome": "Halo setwelcom",
+      "setgoodbye": "Bai Bai"
+    },
+    "6283117190494@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "status@broadcast": {
+      "isBanned": false
+    },
+    "6283123448708@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "6283117190495@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "sBye": "halo",
+    "120363303234224012@g.us": {
+      "isBanned": false,
+      "antilinkgc": true
+    },
+    "6285281752471@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "6283833782677@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "628977458250@s.whatsapp.net": {
+      "isBanned": false
+    },
+    "6283104220600@s.whatsapp.net": {
+      "isBanned": false,
+      "antilinkgc": false
+    },
+    "120363313633262988@newsletter": {
+      "isBanned": false,
+      "antilinkgc": false
+    },
+    "6285765043666@s.whatsapp.net": {
+      "isBanned": false,
+      "antilinkgc": false
+    }
+  },
+  "game": {
+    "tebaklagu": [],
+    "kuismath": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakkalimat": [],
+    "tebaklirik": [],
+    "tebaktebakan": [],
+    "tebakbendera": [],
+    "tebakbendera2": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebakasahotak": [],
+    "tebaksiapakahaku": [],
+    "tebaksusunkata": [],
+    "tebaktekateki": [],
+    "lontong": [],
+    "lontong_desk": []
+  },
+  "database": {},
+  "settings": {
+    "6283117190494@s.whatsapp.net": {
+      "autoread": false,
+      "public": true,
+      "setmenu": 1,
+      "setreply": 1
+    },
+    "6283117190495@s.whatsapp.net": {
+      "autoread": false,
+      "public": true,
+      "setmenu": 1,
+      "setreply": 1
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {},
+  "setmw": true
+}
