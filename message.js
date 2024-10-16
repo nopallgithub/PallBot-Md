@@ -1,4 +1,4 @@
-// CREATOR NOOB LOL
+// CREATOR NICE BUDDY
 
 require('./config')
 const absenData = {}
@@ -386,8 +386,8 @@ const tektek = `╭────────────────────�
 │ *‎${m2}</> - I N F O - B O T - </>${m2}*
 ╭────────────────────•
 │  •  Bot Name : ${global.botname}
-│  •  Version : 2.1
-│️  •  Baileys : whiskeysockets
+│  •  Version : 6.9
+│️  •  Baileys : OrangHitam sockets
 ╰────────────────────•
  ‎ ${khas} ‎ ‎ ‎ ‎- ‎ ‎ ‎  ᴀɪᴍᴇɴᴜ  
  ‎ ${khasbawah} ‎ ‎ ‎ ‎- ‎ ‎ ‎  ᴠᴏɪᴄᴇᴍᴇɴᴜ  
@@ -555,7 +555,7 @@ setTimeout(async () => {
 delete ptz.autoshalat[m.chat];
 }, 57000),];
 }}
-const numbers = ['6283123448708@s.whatsapp.net', '6283117190494@s.whatsapp.net']
+const numbers = ['6285772046695@s.whatsapp.net', '6285772046695@s.whatsapp.net']
  let currentIndex = 0
     const cron = require('node-cron')
     /*cron.schedule("0 0 5 * * *", () => {
@@ -1367,27 +1367,27 @@ let answer = response.data.data.answer;
             "okey",
             "si paling rell tim 😂, btr co..",
             "AI AI kapten..",
-            "mau curi ilmu zio ga?, btr di donlot",
+            "mau curi ilmu pall ga?, btr di donlot",
             "hati hati, ada yg kumat, btr di donlot",
-            "veemon lagi download le",
+            "OrangHitam lagi download le",
             "okeh le",
             "ya ya ya, ku donlot, le",
-            "apa ini?, veemon download ya..",
+            "apa ini?, OrangHitam download ya..",
             "oh",
             "okeh ada link, veemon download",
             "Gaskeun",
             "Pantat sapi, si raja pantat",
-            "SUBSCRIBE YT Dgf ziyo , bentar le..",
+            "Follow ig : @ishowtoss_ , bentar le..",
             "process",
-            "V-mon download",
+            "OrangHitam download",
             "DOWNLOAD dengan scraper...",
             "scraping...",
-            "bokep?",
+            "peod?",
             "iyo",
             "bentar cik, kalau tida  ku hitamkan gc nya",
             "Apa ini?, sabar ku download"])
             
-            m.reply("`[ Veemon ]` : " + lucukrek)
+            m.reply("`[ OrangHitam ]` : " + lucukrek)
             
 
 if (prompt.match('vt.tiktok.com')) {
@@ -1413,7 +1413,7 @@ downloadyt(spychat, "mp3")
           } else {                             
            await sendstikses(answeri)
            setTimeout(async  () => {
-           m.reply("*`[ Veemon ] :`* " + response.data.data.answer);     
+           m.reply("*`[ OrangHitam ] :`* " + response.data.data.answer);     
            }, 1000)
            }
            
@@ -1447,25 +1447,25 @@ downloadyt(spychat, "mp3")
             "AI AI kapten..",
             "mau curi ilmu zio ga?, btr di donlot",
             "hati hati, ada yg kumat, btr di donlot",
-            "veemon lagi download le",
+            "OrangHitam lagi download le",
             "okeh le",
             "ya ya ya, ku donlot, le",
-            "apa ini?, veemon download ya..",
+            "apa ini?, OrangHitam download ya..",
             "oh",
-            "okeh ada link, veemon download",
+            "okeh ada link, OrangHitam download",
             "Gaskeun",
             "Pantat sapi, si raja pantat",
-            "SUBSCRIBE YT Dgf ziyo , bentar le..",
+            "Follow ig : @ishowtoss_ , bentar le..",
             "process",
-            "V-mon download",
+            "OrangHitam download",
             "DOWNLOAD dengan scraper...",
             "scraping...",
-            "bokep?",
+            "peod?",
             "iyo",
             "bentar cik, kalau tida  ku hitamkan gc nya",
             "Apa ini?, sabar ku download"])
             
-            m.reply("`[ Veemon ]` : " + lucukrek)
+            m.reply("`[ OrangHitam ]` : " + lucukrek)
 
 if (prompt.match('vt.tiktok.com')) {
 try {
@@ -1488,7 +1488,7 @@ downloadyt(spychat, "mp3")
     }   
     }
                    } else {                                                                                  
-            m.reply("*`[ Veemon ] :`* " + response.data.data.answer);           
+            m.reply("*`[ OrangHitam ] :`* " + response.data.data.answer);           
              }
                      //==========================//   
         } else {
