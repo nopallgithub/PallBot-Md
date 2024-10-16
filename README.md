@@ -1,0 +1,5 @@
+HOW TO RUN?
+--------------
+
+IN PANEL : NPM INSTALL - NPM START
+IN TERMUX : SOON
